@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 4204
+
+
+google-scholar: true
+google-analytics: G-8SL8WKCMYZ
+
